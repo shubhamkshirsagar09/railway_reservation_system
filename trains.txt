@@ -1,0 +1,4 @@
+12001|Deccan Express|Pune|Mumbai|07:15|10:35|120|120|450.00
+11029|Koyna Express|Mumbai|Pune|08:40|12:50|100|100|380.00
+12115|Siddheshwar Express|Solapur|Mumbai|22:10|06:45|150|150|620.00
+11040|Maharashtra Express|Kolhapur|Gondia|14:30|09:20|180|180|710.00
